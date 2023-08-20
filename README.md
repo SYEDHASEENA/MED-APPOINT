@@ -1,2 +1,2 @@
 # MED-APPOINT
-LIVE PAGES AT:https://github.com/SYEDHASEENA/MED-APPOINT/index2.html
+LIVE PAGES AT: https://syedhaseena.github.io/MED-APPOINT/index2.html
